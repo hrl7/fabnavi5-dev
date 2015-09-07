@@ -21,5 +21,6 @@ Vagrant.configure(2) do |config|
     chef.add_role "app"
     chef.add_role "db"
     chef.add_role "dev"
+    #chef.log_level = :debug
   end
 end

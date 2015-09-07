@@ -6,6 +6,7 @@
     "recipe[fabnavi_zsh]",
     "recipe[vim]",
     "recipe[tmux]",
-    "recipe[graphviz]"
+    "recipe[graphviz]",
+    "recipe[fabnavi_notify]"
   ]
 }

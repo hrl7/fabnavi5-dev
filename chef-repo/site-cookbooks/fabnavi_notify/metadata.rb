@@ -1,0 +1,7 @@
+name             'fabnavi_notify'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures fabnavi_notify'
+long_description 'Installs/Configures fabnavi_notify'
+version          '0.1.0'
